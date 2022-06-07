@@ -1,5 +1,7 @@
 ### Hi there 👋
+I am Shahid Gillani, front end developer from Pakistan.
 
+[![My Skills](https://skills.thijs.gg/icons?i=react,html,css,figma,git,js,jquery,mongodb,mysql,nextjs,nodejs,tailwind)](https://skills.thijs.gg)
 <!--
 **sibshahz/sibshahz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
