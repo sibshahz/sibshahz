@@ -2,7 +2,7 @@
 ## About me 🙋‍♂️
 I am ✨**Shahid Gillani**✨ , front end developer from Pakistan.
 
-[![My Skills](https://skills.thijs.gg/icons?i=react,html,css,bootstrap,sass,figma,git,js,jquery,mongodb,mysql,nextjs,nodejs,tailwind)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,html,css,bootstrap,materialui,sass,figma,git,js,jquery,mongodb,mysql,nextjs,nodejs,tailwind)](https://skills.thijs.gg)
 
 - 🎓 Graduated in Computer Sciences
 - 🔭 I’m currently working on ult-project (A project management system for teams and individuals)
