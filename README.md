@@ -10,7 +10,7 @@ I am ✨**Shahid Gillani**✨ , front end developer from Pakistan.
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 💬 Ask me about anything tech related :fire: Anime, movies or a good series to watch :P
 - 📫 How to reach me: :link: https://www.linkedin.com/in/shahid-gillani-70600089/
-- ⚡ Fun fact: I love to travel less travelled roads like literally I have been to places normal tourists wont be able reach :sunglasses:
+- ⚡ Fun fact: I love to travel less travelled roads :sunglasses:
 <!--
 **sibshahz/sibshahz** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
