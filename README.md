@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## About me 🙋‍♂️
-I am ✨**Shahid Gillani**✨ , front end developer from Pakistan.
+I am ✨**Shahid Gillani**✨ , Front End Engineer from Pakistan.
 
 [![My Skills](https://skills.thijs.gg/icons?i=react,html,css,bootstrap,materialui,sass,figma,git,js,jquery,mongodb,mysql,nextjs,nodejs,tailwind)](https://skills.thijs.gg)
 
