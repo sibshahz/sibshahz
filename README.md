@@ -9,7 +9,7 @@ I am ✨**Shahid Gillani**✨ , Front End Engineer from Pakistan.
 - 🌱 I’m currently learning more about react, redux, state management and firebase
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 💬 Ask me about anything tech related :fire: Anime, movies or a good series to watch :P
-- 📫 How to reach me: :link: https://www.linkedin.com/in/shahid-gillani-70600089/
+- 📫 How to reach me: :link: https://www.linkedin.com/in/shahidgillani/
 - ⚡ Fun fact: I love to travel less travelled roads :sunglasses:
 <!--
 **sibshahz/sibshahz** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
