@@ -2,11 +2,11 @@
 ## About me 🙋‍♂️
 I am ✨**Shahid Gillani**✨ , Full-Stack Engineer from Pakistan.
 
-[![My Skills](https://skills.thijs.gg/icons?i=react,nextjs,typescript,apollo,html,css,bootstrap,materialui,graphql,sass,figma,git,js,jquery,mongodb,mysql,nodejs,tailwind)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,nextjs,typescript,apollo,html,css,bootstrap,materialui,graphql,sass,figma,git,js,jquery,mongodb,mysql,nodejs,tailwind,alpinejs)](https://skills.thijs.gg)
 
 - 🎓 Graduated in Computer Sciences
-- 🔭 I’m currently working on ult-project (A project management system for teams and individuals)
-- 🌱 I’m currently learning more about react, redux, state management and firebase
+- 🔭 I’m currently over-engineering a fullstack e-commerce app just for the fun (FusionCart)
+- 🌱 I’m currently diving deep into full-stack development, bit of devOps and pinch of ML
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 💬 Ask me about anything tech related :fire: Anime, movies or a good series to watch :P
 - 📫 How to reach me: :link: https://www.linkedin.com/in/shahidgillani/
