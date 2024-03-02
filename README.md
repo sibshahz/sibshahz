@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## About me 🙋‍♂️
-I am ✨**Shahid Gillani**✨ , Full-Stack Engineer from Pakistan.
+I am ✨**Shahid Gillani**✨ , 100xDev in making, a self-taught Full-Stack Developer from Pakistan.
 
 [![My Skills](https://skills.thijs.gg/icons?i=react,nextjs,typescript,apollo,html,css,bootstrap,materialui,graphql,sass,figma,git,js,jquery,mongodb,mysql,nodejs,tailwind,alpinejs)](https://skills.thijs.gg)
 
