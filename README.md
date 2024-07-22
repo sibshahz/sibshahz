@@ -3,8 +3,8 @@
 I am ✨**Shahid Gillani**✨ , 100xDev in making, a self-taught Full-Stack Developer from Pakistan.
 
 [![My Skills](https://skills.thijs.gg/icons?i=react,nextjs,typescript,apollo,html,css,bootstrap,materialui,graphql,sass,figma,git,js,jquery,mongodb,mysql,nodejs,tailwind,alpinejs)](https://skills.thijs.gg)
-![image({https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB})]
-![image({https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white})] 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 
 - 🎓 Graduated in Computer Sciences
