@@ -25,8 +25,7 @@ I am ✨**Shahid Gillani**✨ , 100xDev in making, a self-taught Full-Stack Deve
 
 
 - 🎓 Graduated in Computer Sciences
-- 🔭 I’m currently over-engineering a fullstack e-commerce app just for the fun (FusionCart)
-- 🌱 I’m currently diving deep into full-stack development, bit of devOps and pinch of ML
+- 🔭 I’m currently working on integrating AI agents in my projects to make next generation applications.
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 💬 Ask me about anything tech related :fire: Anime, movies or a good series to watch :P
 - 📫 How to reach me: :link: https://www.linkedin.com/in/shahidgillani/
