@@ -1,47 +1,61 @@
-### Hi there 👋
-## About me 🙋‍♂️
-I am ✨**Shahid Gillani**✨ , 10xDev, a Full-Stack Engineer from Pakistan.
+### 👋 Hi there, I'm Shahid Gillani
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+🚀 Full-Stack & AI Engineer | 🧑‍🏫 Computer Science Lecturer | 💡 Problem Solver
 
+I’m a passionate developer and educator from Pakistan, working at the intersection of **web development** and **applied AI**. With years of experience in the **MERN stack**, cloud-native apps, and real-time systems, I love turning ideas into reliable, scalable solutions. Whether I'm building AI-powered platforms, mentoring students, or contributing to open-source, I focus on writing clean, maintainable, and modern code.
 
-- 🎓 Graduated in Computer Sciences
-- 🔭 I’m currently working on integrating AI agents in my projects to make next generation applications.
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-- 💬 Ask me about anything tech related :fire: Anime, movies or a good series to watch :P
-- 📫 How to reach me: :link: https://www.linkedin.com/in/shahidgillani/
-- ⚡ Fun fact: I love to travel remote (pun-intended) areas :sunglasses:
+---
 
-<!--
-**sibshahz/sibshahz** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 What I Do
 
-Here are some ideas to get you started:
+- 👨‍💻 Building **Full-Stack Web Applications** with modern frameworks (React, Next.js, Node.js, MongoDB)
+- 🤖 Integrating **AI Agents** into real-world products (Chat, Voice, Task Automation)
+- ☁️ Deploying scalable apps using **Docker**, **CI/CD**, and **Cloud Platforms**
+- 🎓 Teaching Computer Science & guiding students through their **FYPs** and careers
+- 🌐 Exploring open source, dev tooling, and educational tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Current Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🔍 Currently Working On
+
+- 🧠 AI-powered apps using OpenAI, Whisper, and WebSockets  
+- 📚 A university-focused platform: batch management, FYPs, custom grading  
+- 🌐 Scalable APIs with OAuth2, MS Graph, and Azure Blob Storage  
+- 🧪 Teaching full-stack and AI engineering to CS students
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/shahidgillani)
+- 🧑‍💻 [GitHub](https://github.com/sibshahz)
+- 🌐 Personal Site (coming soon…)
+
+---
+
+### ⚡ Fun Facts
+
+- 🧭 I love exploring remote (pun intended) places  
+- 🍿 I enjoy good anime, movies, and long tech debates  
+- 🧩 I believe in building tech that **educates**, **empowers**, and **lasts**
+
+---
+
+> _“First, solve the problem. Then, write the code.”_ – John Johnson
