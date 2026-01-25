@@ -1,3 +1,5 @@
+> _“A jack of all trades is a master of none, but oftentimes better than master of one.”_ 
+
 ### 👋 Hi there, I'm Shahid Gillani
 
 🚀 Full-Stack & AI Engineer | 🧑‍🏫 Computer Science Lecturer | 💡 Problem Solver
