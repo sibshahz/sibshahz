@@ -1,4 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=sibshahz&style=flat-square&color=0d7377&label=PROFILE+VIEWS" />
 
 > _“A jack of all trades is a master of none, but oftentimes better than master of one.”_ 
 
